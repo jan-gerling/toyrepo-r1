@@ -3,8 +3,8 @@ package a;
 class Example1 {
 
 	private int convert(int a) {
-		int b = a + 5;
-		return b;
+		int bbb = a + 5;
+		return bbb;
 	}
 
 	public void m1() {
