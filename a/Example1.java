@@ -2,13 +2,9 @@ package a;
 
 class Example1 {
 
-	private int convert(int a) {
-		return a + 5;
-	}
-
 	public void m1() {
 		int a = 0;
-		int b = convert(a);
+		int b = a + 5;
 
 		b = b * 2;
 
